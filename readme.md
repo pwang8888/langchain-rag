@@ -64,7 +64,7 @@ python create_database.py
 ### Step 2: Ask a question
 
 ```bash
-python query_data.py "How does Alice meet the Mad Hatter?"
+python query_data.py "How many vacation days do new full-time employees get?"
 ```
 
 
